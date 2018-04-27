@@ -4,7 +4,7 @@
 html,body{
 	margin:0;
 	padding:0;
-	height:100%;
+	height:100vh;
 	width:100%;
 }
 
@@ -12,14 +12,142 @@ html,body{
 	height:100%;
 	width:100%;
 	margin:auto;
-	background:url(https://i.pinimg.com/736x/3a/11/d7/3a11d72bf57b2318b6074f3c54380f24.jpg);
-	display: : table;
+	display:table;
 	top:0;
 	background-size: cover;
+	background-image: url(https://cdn.magdeleine.co/wp-content/uploads/2017/07/annie-spratt-298424.jpg);
+
+
 }
 .intro .inner{
 	display:table-cell;
-	vertical-align: middle;
+	height:100%;
 	width: 100%;
 	max-width:none;
+	color:white;
+
 }
+.content{
+	max-width:500px;
+	margin:0 auto;
+	text-align: center;
+	
+}
+.content h1{
+	font-family: 'Montserrat', sans-serif;
+	font-size:400%;
+	vertical-align: top;
+	height:35px;
+}
+.content h1:hover{
+	color:pink;
+}
+.content h2{
+	font-family: 'Montserrat', sans-serif;
+	font-size:100%;
+	vertical-align: top;
+	height:25px;
+	
+}
+.content h2:hover{
+	color:pink;
+}
+.content h4{
+	font-family: 'Montserrat', sans-serif;
+	font-size:70%;
+	color:white;
+	vertical-align: baseline;
+	height:360px;
+
+}
+.content h4:hover{
+	color:pink;
+}
+.btn1 {
+  display: inline-block;
+  vertical-align: 
+  padding: 20px 45px;
+  letter-spacing: 0.015em;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 2;
+  color: #fff;
+  text-decoration: none;
+  -webkit-transition: all 0.4s;
+     -moz-transition: all 0.4s;
+       -o-transition: all 0.4s;
+          transition: all 0.4s;
+   width:100px;
+}
+.btn1:hover {
+  color: pink;
+  border-color: #808080;
+  border: 2px solid #fff;
+
+}
+.btn2 {
+  display: inline-block;
+  width:100px;
+  vertical-align: 
+  padding: 20px 45px;
+  letter-spacing: 0.015em;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 2;
+  color: #fff;
+  text-decoration: none;
+  -webkit-transition: all 0.4s;
+     -moz-transition: all 0.4s;
+       -o-transition: all 0.4s;
+          transition: all 0.4s;
+}
+.btn2:hover {
+  color: pink;
+  border-color: #808080;
+  border: 2px solid #fff;
+
+}
+.btn3 {
+  width:100px;
+  display: inline-block;
+  vertical-align: 
+  padding: 20px 45px;
+  letter-spacing: 0.015em;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 2;
+  color: #fff;
+  text-decoration: none;
+  -webkit-transition: all 0.4s;
+     -moz-transition: all 0.4s;
+       -o-transition: all 0.4s;
+          transition: all 0.4s;
+}
+.btn3:hover {
+  color: pink;
+  border: 2px solid #fff;
+  border-color: #808080;
+}
+.btn4 {
+  width:100px;
+  display: inline-block;
+  vertical-align: 
+  padding: 20px 45px;
+  letter-spacing: 0.015em;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 2;
+  color: #fff;
+  text-decoration: none;
+  -webkit-transition: all 0.4s;
+     -moz-transition: all 0.4s;
+       -o-transition: all 0.4s;
+          transition: all 0.4s;
+}
+.btn4:hover {
+  color: pink;
+  border-color: #808080;
+  border: 2px solid #fff;
+
+}
+
