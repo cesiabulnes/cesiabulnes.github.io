@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:700');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:500');
+
+html,body{
+	margin:0;
+	padding:0;
+	height:100%;
+	width:100%;
+}
+
+.intro{
+	height:100%;
+	width:100%;
+	margin:auto;
+	background:url(https://i.pinimg.com/736x/3a/11/d7/3a11d72bf57b2318b6074f3c54380f24.jpg);
+	display: : table;
+	top:0;
+	background-size: cover;
+}
+.intro .inner{
+	display:table-cell;
+	vertical-align: middle;
+	width: 100%;
+	max-width:none;
+}
