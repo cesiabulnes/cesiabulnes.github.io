@@ -70,6 +70,7 @@ html,body{
 	color:pink;
 }
 .btn1 {
+  font-family: 'Montserrat', sans-serif;
   display: inline-block;
   vertical-align: 
   padding: 20px 45px;
@@ -92,6 +93,7 @@ html,body{
 
 }
 .btn2 {
+  font-family: 'Montserrat', sans-serif;
   display: inline-block;
   width:100px;
   vertical-align: 
@@ -114,6 +116,7 @@ html,body{
 
 }
 .btn3 {
+  font-family: 'Montserrat', sans-serif;
   width:100px;
   display: inline-block;
   vertical-align: 
@@ -135,6 +138,7 @@ html,body{
   border-color: #808080;
 }
 .btn4 {
+  font-family: 'Montserrat', sans-serif;
   width:100px;
   display: inline-block;
   vertical-align: 
